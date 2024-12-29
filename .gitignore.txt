@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+
+# Kafka
+logs/
+*.log
+
+# MongoDB
+*.pid
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# MacOS system files (if applicable)
+.DS_Store
+
+# Windows system files (if applicable)
+Thumbs.db
+
+# General backups
+*~ 
+*.bak
